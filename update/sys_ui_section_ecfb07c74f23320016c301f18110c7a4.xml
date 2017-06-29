@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Needdd" section_id="ecfb07c74f23320016c301f18110c7a4" sys_domain="global" table="x_136282_innovate_innovate" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Needdd</caption>
+            <header>false</header>
+            <name>x_136282_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-29 04:15:16</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ecfb07c74f23320016c301f18110c7a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Needdd</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Needit" source="x_136282_needit">0ea3b2644fa3320016c301f18110c759</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Needit">0ea3b2644fa3320016c301f18110c759</sys_scope>
+            <sys_update_name>sys_ui_section_ecfb07c74f23320016c301f18110c7a4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 04:15:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
